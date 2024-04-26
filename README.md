@@ -1,16 +1,16 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+</head>
+<body>
 
-<!--
-**carzaps/carzaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <!-- Aquí puedes incluir el contenido de tu portafolio -->
 
-Here are some ideas to get you started:
+    <!-- Ejemplo de imagen -->
+    <img src="nombre_de_la_imagen.jpg" alt="Descripción de la imagen">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
